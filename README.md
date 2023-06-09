@@ -6,6 +6,10 @@
 
 Realnode 是一家提供优质线路等翻墙服务商，在国内拥有多线服务器接入，并拥有IPLC专线节点。Realnode 机场有定制客户端（Windows、Mac、Android），对新手用户也十分友好，提供 ChatGPT 专用解锁节点。
 
+## Realnode优惠码
+
+【六一儿童节】优惠码：3K6XzmXI  即可享受15元专属优惠，活动日期5.28-6.1
+
 ## 特色
 
 * IEPL专线
