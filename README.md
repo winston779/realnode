@@ -1,6 +1,6 @@
 # Realnode机场官网地址
 
-最新地址：[realnode.info](https://realnode.app/#/register?code=Gyvyltkm)
+最新地址：[realnode.info](https://user.realnode.moe/#/register?code=Gyvyltkm)
 
 ## 简介
 
